@@ -44,7 +44,6 @@ public class Application {
                 "/addUser.action",
                 "/addedUser.jsp",
                 "/addUserForm.action",
-                "/addUserForm.jsp",
                 "/findUser.action",
                 "/findUserForm.action",
                 "/findUserForm.jsp",
